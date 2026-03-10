@@ -1,4 +1,4 @@
-# READ ME
+# INVENTORY
 
 The solution was divided into multiple modules to organize the code and separate responsibilities:
 
