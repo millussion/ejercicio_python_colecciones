@@ -1,9 +1,8 @@
-from productos import *
+from products_all import *
 
 
 def history():
     total_day = sum(product["total"] for product in products)
-    
     print("-" * 34)
     print("Sales history of the day".center(35))
     show_product()
