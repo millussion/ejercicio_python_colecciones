@@ -10,3 +10,6 @@ The solution was divided into multiple modules to organize the code and separate
 * *`history.py`* : The **history module** is responsible for displaying the sales summary. It calculates the total amount collected during the day using the *`sum()`* function of python and iterates through the *`products`* list to display each recorded sale.
 
 This structure improves readability and organization by separating the responsibilities of the program into different files: the main execution flow, the product management logic, and the sales history summary.
+
+# flow chart:
+![Diagrama sin título](https://github.com/user-attachments/assets/77abaab2-a2af-4a9b-8bf8-b6d8fac3420c)
